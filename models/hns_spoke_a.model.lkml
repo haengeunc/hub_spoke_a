@@ -4,6 +4,7 @@ include: "/views/**/*.view.lkml"
 label: "Hub & Spoke Customer A"
 
 explore: +order_items {
+  hidden: yes
   label: "Sales Data"
   description: "Customer A has an additional table added to their data model"
 
