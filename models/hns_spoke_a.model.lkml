@@ -5,7 +5,7 @@ label: "Hub & Spoke Customer A"
 
 explore: +order_items {
   hidden: yes
-  label: "Sales Data"
+  label: "Sales Data - A"
   description: "Customer A has an additional table added to their data model"
 
   join: users {
