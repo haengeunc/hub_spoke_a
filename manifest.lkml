@@ -1,8 +1,8 @@
 project_name: "hns_spoke_a"
 
 local_dependency: {
-  project: "hns_core"
+  project: "hub_spoke_core"
   override_constant: connection_name {
-    value: "jeff-customera"
+    value: "bq_looker_hc"
   }
 }

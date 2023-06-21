@@ -1,4 +1,4 @@
-include: "//hns_core/**/*.lkml"
+include: "//hub_spoke_core/**/*.lkml"
 include: "/views/**/*.view.lkml"
 
 label: "Hub & Spoke Customer A"
